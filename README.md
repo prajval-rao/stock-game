@@ -11,10 +11,12 @@ Built using matplotlib and Python’s randomisation modules.
 
 ## Command line output
 ![Command line output](command_line.png)
+
 The command-line output updates every 2 seconds, showing the live values of all the variables shown above.
 
 ## Graph output
 
 The graph updates after every price change, plotting the recent history (last 20 changes) of the stock price
+
 ![Graph output](graph.png)
 
