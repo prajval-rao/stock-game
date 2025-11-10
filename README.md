@@ -1,3 +1,4 @@
+## Stock market simulation game
 A text-based **stock profit simulation game** made using Python. 
 Buy and sell at the right moments using a command-line price reference and a graph of recent stock price history.
 Built using matplotlib and Python’s randomisation modules.
