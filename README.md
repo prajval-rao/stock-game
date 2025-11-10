@@ -10,11 +10,11 @@ Built using matplotlib and Python’s randomisation modules.
 - Edge-case handling to keep markets realistic
 
 ## Command line output
-![alt text](image.png)
+![Command line output](command_line.png)
 The command-line output updates every 2 seconds, showing the live values of all the variables shown above.
 
 ## Graph output
 
 The graph updates after every price change, plotting the recent history (last 20 changes) of the stock price
-![alt text](image-1.png)
+![Graph output](graph.png)
 
